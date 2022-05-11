@@ -1,0 +1,1 @@
+SELECT * FROM ficha7.persons;
